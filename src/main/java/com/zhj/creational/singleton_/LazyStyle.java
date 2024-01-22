@@ -1,4 +1,4 @@
-package com.zhj.creational.singleton;
+package com.zhj.creational.singleton_;
 
 /**
  * @author zhj

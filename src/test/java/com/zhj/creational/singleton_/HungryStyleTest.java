@@ -1,4 +1,4 @@
-package com.zhj.creational.singleton;
+package com.zhj.creational.singleton_;
 
 import org.junit.jupiter.api.Test;
 

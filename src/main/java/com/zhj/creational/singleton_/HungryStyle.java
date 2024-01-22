@@ -1,6 +1,4 @@
-package com.zhj.creational.singleton;
-
-import com.zhj.model.Student;
+package com.zhj.creational.singleton_;
 
 /**
  * @author zhj

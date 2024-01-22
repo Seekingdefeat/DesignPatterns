@@ -1,8 +1,6 @@
-package com.zhj.creational.singleton;
+package com.zhj.creational.singleton_;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author zhj

@@ -1,5 +1,9 @@
 package com.zhj.creational.factory_;
 
+/**
+ * 简单工厂模式
+ */
+
 public class FactoryStyle {
     public static void main(String[] args) {
         Factory1 factory = new Factory1();

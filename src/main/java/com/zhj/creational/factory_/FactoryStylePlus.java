@@ -1,5 +1,9 @@
 package com.zhj.creational.factory_;
 
+/**
+ * 创建型：工厂方法模式
+ */
+
 public class FactoryStylePlus {
     public static void main(String[] args) {
         new BananaFactory().produce().eat();
